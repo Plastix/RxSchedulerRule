@@ -17,10 +17,10 @@ Add to app module *gradle.build* file:
 dependencies {
 
     // For RxJava 1
-    compile 'com.github.Plastix:RxSchedulerRule:rx1:<VERSION>'
+    compile 'com.github.Plastix:RxSchedulerRule:rx1:1.0.1'
 
     // For RxJava 2
-    compile 'com.github.Plastix:RxSchedulerRule:rx2:<VERSION>'
+    compile 'com.github.Plastix:RxSchedulerRule:rx2:1.0.1'
 }
 ```
 
