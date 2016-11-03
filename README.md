@@ -36,6 +36,9 @@ public class SomeTest {
 }
 ```
 
+## Attributions
+RxSchedulerRule is inspired by the JUnit Rule in @hitherejoe's [Android-Boilerplate](https://github.com/hitherejoe/Android-Boilerplate).
+
 ## License
 ```
 The MIT License (MIT)
