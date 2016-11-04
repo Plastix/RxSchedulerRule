@@ -1,4 +1,4 @@
-package io.github.plastix.rx1;
+package io.github.plastix.rxschedulerrule;
 
 import junit.framework.Assert;
 

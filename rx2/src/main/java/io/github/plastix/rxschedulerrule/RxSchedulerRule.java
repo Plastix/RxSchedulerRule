@@ -1,4 +1,4 @@
-package io.github.plastix.rx2;
+package io.github.plastix.rxschedulerrule;
 
 import org.junit.rules.TestRule;
 import org.junit.runner.Description;
