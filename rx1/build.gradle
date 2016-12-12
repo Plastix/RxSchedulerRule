@@ -21,7 +21,7 @@ android {
 
 dependencies {
     compile 'junit:junit:4.12'
-    compile 'io.reactivex:rxjava:1.2.0'
+    compile 'io.reactivex:rxjava:1.2.3'
     compile 'io.reactivex:rxandroid:1.2.1'
 }
 
