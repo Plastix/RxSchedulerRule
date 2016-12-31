@@ -36,6 +36,17 @@ public class SomeTest {
 }
 ```
 
+Kotlin usage:
+```Kotlin
+class SomeTest {
+
+    @get:Rule
+    val schedulerRule = RxSchedulerRule()
+
+    // Tests
+}
+```
+
 ## Attributions
 RxSchedulerRule is inspired by the JUnit Rule in @hitherejoe's [Android-Boilerplate](https://github.com/hitherejoe/Android-Boilerplate).
 
